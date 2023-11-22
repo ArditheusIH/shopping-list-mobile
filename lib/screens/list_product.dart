@@ -33,7 +33,6 @@ class _ProductPageState extends State<ProductPage> {
     }
     return list_product;
   }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
