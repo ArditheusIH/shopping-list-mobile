@@ -58,10 +58,7 @@ class LeftDrawer extends StatelessWidget {
           title: const Text('Tambah Produk'),
           // Bagian redirection ke ShopFormPage
           onTap: () {
-            /*
-            TODO: Buatlah routing ke ShopFormPage di sini,
-            setelah halaman ShopFormPage sudah dibuat.
-            */
+            
             Navigator.push(
               context,
                 MaterialPageRoute(
